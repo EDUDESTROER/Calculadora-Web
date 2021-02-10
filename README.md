@@ -1,2 +1,2 @@
-# JavaScript-Testes
-Testando JavaScript
+#Calculadora-Web
+Criando uma calculadora com JavaScript e HTML5...
